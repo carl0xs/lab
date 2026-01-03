@@ -1,7 +1,7 @@
 use std::collections::VecDeque; 
 
 fn main() {
-    //iniciando uma fila vazia com capacidade para 10 elementos do tipo int
+    // starting an empty queue with a capacity for 10 elements of type int
    let mut deque: VecDeque<u32> = VecDeque::with_capacity(10); 
  
    //add value to deque

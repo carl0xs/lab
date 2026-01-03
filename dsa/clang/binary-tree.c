@@ -17,7 +17,7 @@ struct Node {
     struct Node *right;
 };
 
-//constructor
+// Constructor
 struct Node* createNode(int data) {
     struct Node* newNode =
       (struct Node*)malloc(sizeof(struct Node));

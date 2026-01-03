@@ -53,7 +53,7 @@ class Playlist
   end
 end
 
-# Exemplo de uso
+# Example of use
 my_playlist = Playlist.new
 my_playlist.add_song("Song 1")
 my_playlist.add_song("Song 2")

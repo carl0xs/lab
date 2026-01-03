@@ -1,31 +1,30 @@
-# Estrutura de Dados 
+# Data Structures
 
-#### O que são estrutura de dados?
-Uma estrutura de dados é um armazenamento usado para armazenar e organizar dados. É uma maneira de organizar os dados em um computador para que possam ser acessados eatualizados com eficiência.
+#### What are data structures?
+A data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 
-Uma estrutura de dados não é usada apenas para organizar os dados. Também é usado para processar, recuperar e armazenar dados.
+A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data.
 
-#### Classificação
+#### Classification
 
-<img src="../DSA/rust/assets/ClassificationofDataStructure-660x347.jpg">
+<img src="assets/ClassificationofDataStructure-660x347.jpg">
 
-- Estrutura de Dados linear: Estrutura de dados linear: A estrutura de dados na qual os elementos de dados são organizados sequencialmente ou linearmente, onde cada elemento é anexado aos seus elementos adjacentes anteriores e posteriores, é chamada de estrutura de dados linear. 
-Exemplos de estruturas de dados lineares são array, pilha, fila, lista encadeada, etc.
-    - Estrutura de dados estática: A estrutura de dados estática tem um tamanho de memória fixo. É mais fácil acessar os elementos em uma estrutura de dados estática. 
-        Um exemplo dessa estrutura de dados é um array.
-    - Estrutura de dados dinâmica: Na estrutura de dados dinâmica, o tamanho não é fixo. Ele pode ser atualizado aleatoriamente durante o tempo de execução, o que pode ser considerado eficiente em relação à complexidade da memória (espaço) do código.
-        Exemplos dessa estrutura de dados são fila, pilha, etc.
+- Linear Data Structure: A data structure in which data elements are arranged sequentially or linearly, where each element is attached to its previous and next adjacent elements, is called a linear data structure. 
+Examples of linear data structures are array, stack, queue, linked list, etc.
+    - Static Data Structure: A static data structure has a fixed memory size. It is easier to access the elements in a static data structure. 
+        An example of this data structure is an array.
+    - Dynamic Data Structure: In a dynamic data structure, the size is not fixed. It can be randomly updated during runtime, which can be considered efficient in relation to the memory (space) complexity of the code.
+        Examples of this data structure are queue, stack, etc.
 
 #### Queue
 #### Stack
 #### LinkedList
 
 
-- Estrutura de dados não linear: As estruturas de dados em que os elementos de dados não são colocados sequencialmente ou linearmente são chamadas de estruturas de dados não lineares. Em uma estrutura de dados não linear, não podemos percorrer todos os elementos em apenas uma execução.
-    Exemplos de estruturas de dados não lineares são árvores e gráficos.
+- Non-linear Data Structure: Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we cannot traverse all the elements in just one run.
+    Examples of non-linear data structures are trees and graphs.
 
 
 #### Tree's
 
 #### Graphs
-
