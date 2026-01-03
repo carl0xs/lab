@@ -1,9 +1,3 @@
-# Lab
-
-A comprehensive repository containing algorithms, data structures, coding interview materials, and educational resources for software development.
-
-## About
-
 This repository serves as a personal learning hub and reference for various programming concepts, algorithms, and interview preparation materials. It's designed to help developers improve their technical skills and prepare for technical interviews.
 
 ## Summary
