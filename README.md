@@ -1,14 +1,5 @@
 # Lab
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
-[![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=flat&logo=algorithm&logoColor=white)](https://en.wikipedia.org/wiki/Algorithm)
-[![Computer Science](https://img.shields.io/badge/Computer_Science-4B0082?style=flat&logo=computer&logoColor=white)](https://en.wikipedia.org/wiki/Computer_science)
-[![Database](https://img.shields.io/badge/Database-336791?style=flat&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/Database)
-
 A comprehensive repository containing algorithms, data structures, coding interview materials, and educational resources for software development.
 
 ## About
