@@ -2,17 +2,28 @@ This repository serves as a personal learning hub and reference for various prog
 
 ## Structure
 
-- **algorithms/** — Data structures, algorithms and practice problems
+### computer-science/
+Computer science fundamentals and theoretical concepts
+- `algorithms/` — Data structures and algorithms
   - `implementations/` — Implementations in C, C++, Ruby, Rust, TypeScript
-  - `books/` — Book-based studies (Grokking Algorithms, Data Structs & Algorithms)
-  - `leetcode/` — LeetCode problem solutions
-  - `exercism/` — Exercism track exercises
-  - `frontend-masters/` — Frontend Masters algorithm courses (ThePrimeagen, etc.)
-- **functional-programming/** — Functional programming concepts: currying, memoization, parser combinators
+  - `books/` — Book-based studies (Grokking Algorithms, etc.)
+- `architecture/` — Computer architecture (CPU, memory, I/O systems)
+- `networking/` — Computer networking concepts and protocols
+- `distributed-systems/` — Distributed systems theory and implementations
+- `compilers/` — Compiler theory and implementation
+- `paradigms/` — Programming paradigms
+  - `functional/` — Functional programming (currying, memoization, parser combinators)
 
-- **software-engineering/** — Software design and architecture
-  - `design-patterns/` — Design pattern implementations
-  - `ddd/` — Domain-Driven Design
-  - `compilers/` — Compiler theory and implementation
+### software-design/
+Software design patterns and architecture
+- `patterns/` — Design pattern implementations
+- `ddd/` — Domain-Driven Design
+- `system-design/` — System design principles and case studies
 
-- **freecodecamp/** — FreeCodeCamp courses (algorithms, data structures, networking, etc.)
+### practice/
+Coding practice and courses
+- `leetcode/` — LeetCode problem solutions
+- `exercism/` — Exercism track exercises
+- `courses/` — Online courses
+  - `freecodecamp/` — FreeCodeCamp courses
+  - `frontend-masters/` — Frontend Masters courses
